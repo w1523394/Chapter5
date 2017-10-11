@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chapter5</string>
+    <string name="bill">Bill</string>
+    <string name="amount" />
+    <string name="Percent">Percent</string>
+    <string name="tip_percent"></string>
+    <string name="decrease">-</string>
+    <string name="increase">+</string>
+    <string name="tip_amount_label">Tip</string>
+    <string name="tip_amount"></string>
+    <string name="total_amount_label">Total</string>
+    <string name="total_amount"></string>
+</resources>
